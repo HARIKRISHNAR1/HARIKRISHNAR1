@@ -31,3 +31,32 @@ I'm a **Final-year Computer Science undergraduate** from Kasaragod, Kerala 🇮�
 
 ---
 
+## 💻 Tech Stack
+
+### Programming Languages
+| Language   | Level        | Used For                     |
+|------------|--------------|------------------------------|
+| **Java**   | Intermediate | Academic                     |
+| **C++**    | Advanced     | DSA, Computer Graphics       |
+| **Python** | Intermediate | Academic Projects            |
+| **C**      | Advanced     | System programming, Academic |
+
+
+### Technologies & Tools
+- 🌐 **Networking:** TCP & UDP Client-Server Programming
+- 📊 **Data Structures:** Array, String, Sorting
+- 🎨 **Computer Graphics:** OpenGL basics, Rendering concepts
+- 🔗 **Blockchain:** Smart contracts, Distributed systems (learning)
+- 🛠️ **Tools:** Git, GitHub, VS Code, Edge, Live Server
+
+---
+
+## 🚀 What I'm Working On
+
+- 📚 **DSA Practice:** Solving coding problems on Array, Strings, Binary Search, Recursion & Backtracking, Linked List, Stack & Queue, Binary Tree, Binary Search Tree, Heaps, Graphs, Dynamic Programming, Greedy Algorithms
+- 💼 **Placement Prep:** Mock interviews, coding rounds, HR preparation
+- 🏗️ **Projects:** Building client-server apps, computer graphics visualizers
+- 📖 **Learning:** Web Development and Soft Skills
+- 🏃 **Fitness:** Regular exercises for health improvement
+
+---
