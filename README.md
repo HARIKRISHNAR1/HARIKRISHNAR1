@@ -1,62 +1,48 @@
-# Hi there, I'm HARI KRISHNA R! 👋
+### Hi, I'm Hari Krishna 👋
 
-<!--
-**HARIKRISHNAR1/HARIKRISHNAR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate focused on backend and distributed
+systems engineering. I like building things that stay correct under
+pressure — concurrent requests, retries, race conditions — not just
+code that works on the happy path.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a **Final-year Computer Science undergraduate** from Kasaragod, Kerala 🇮🇳. I'm actively preparing for campus placements and building my coding skills in software development.
-
-🚀 **Passionate about** solving problems, learning new technologies, and building practical projects.  
-🎯 **Currently focused on:** Data Structures & Algorithms, Computer Graphics, placement preparation, and expanding my tech stack.
+- 🎓 B.Tech Computer Science and Engineering, LBS College of Engineering
+- 🔭 Currently exploring concurrency control, idempotent system design,
+  and data structures & algorithms
+- 🌱 Learning to build backend systems the way real payment and
+  distributed systems are built — with correctness and testing as
+  first-class concerns, not an afterthought
 
 ---
 
-## 🎓 About Me
+### 🛠️ Tech Stack
 
-- 🎓 **Education:** B.Tech Computer Science (4th Year, S7) - KTU
-- 📍 **Location:** Kasaragod, Kerala, India
-- 💻 **Interest Areas:** Software Development, Quality Assurance, Computer Graphics, Blockchain
-- 👨‍💻 **Family:** Caring for elderly parent
-- 🏃 **Fitness:** Working on body fat reduction & overall health improvement
-
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-| Language   | Level        | Used For                     |
-|------------|--------------|------------------------------|
-| **Java**   | Intermediate | Academic                     |
-| **C++**    | Advanced     | DSA, Computer Graphics       |
-| **Python** | Intermediate | Academic Projects            |
-| **C**      | Advanced     | System programming, Academic |
-
-
-### Technologies & Tools
-- 🌐 **Networking:** TCP & UDP Client-Server Programming
-- 📊 **Data Structures:** Array, String, Sorting
-- 🎨 **Computer Graphics:** OpenGL basics, Rendering concepts
-- 🔗 **Blockchain:** Smart contracts, Distributed systems (learning)
-- 🛠️ **Tools:** Git, GitHub, VS Code, Edge, Live Server
+**Languages:** Java, Python, C, C++, SQL
+**Backend:** Flask, REST APIs
+**Database:** MySQL
+**Tools:** Git, GitHub, Linux, Bash, pytest
 
 ---
 
-## 🚀 What I'm Working On
+### 📌 Featured Projects
 
-- 📚 **DSA Practice:** Solving coding problems on Array, Strings, Binary Search, Recursion & Backtracking, Linked List, Stack & Queue, Binary Tree, Binary Search Tree, Heaps, Graphs, Dynamic Programming, Greedy Algorithms
-- 💼 **Placement Prep:** Mock interviews, coding rounds, HR preparation
-- 🏗️ **Projects:** Building client-server apps, computer graphics visualizers
-- 📖 **Learning:** Web Development and Soft Skills
-- 🏃 **Fitness:** Regular exercises for health improvement
+**[Idempotent Payment Processing Simulator](https://github.com/HARIKRISHNAR1/payment-simulator)**
+A payment API that prevents duplicate charges from client retries,
+using idempotency keys and per-key locking so every request is
+processed exactly once. Includes a full automated test suite covering
+concurrent requests and retry logic.
+
+**[Concurrent Transaction Ledger](https://github.com/HARIKRISHNAR1/transaction-ledger)**
+A double-entry transaction ledger supporting account transfers with
+thread-safe balance updates. Uses fixed-order locking to prevent race
+conditions and deadlocks, verified with tests simulating 100+
+simultaneous transfers.
+
+**[Pathfinding Visualizer](https://github.com/HARIKRISHNAR1/pathfinding-visualizer)**
+An interactive visualizer for BFS, DFS, and A* graph traversal
+algorithms, with animated execution and draggable obstacle placement.
 
 ---
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/harikrishnar1) .
